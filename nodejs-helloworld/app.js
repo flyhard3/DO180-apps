@@ -2,7 +2,7 @@ var express = require('express');
 app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World FLYHARD 2020/09/08 on Master !');
+  res.send('Hello World FLYHARD 2020/09/08 on Master from Mac !');
 });
 
 app.listen(8080, function () {
